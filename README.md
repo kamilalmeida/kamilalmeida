@@ -1,7 +1,6 @@
 Oii, eu sou a Kamila 👋
 
-<!--
-**kamilalmeida/kamilalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - Atualmente estou estudando para me tornar uma desenvolvedora Front-end.
 - Amo aprender coisas novas.
