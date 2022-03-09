@@ -4,7 +4,7 @@
 
 - Atualmente estou estudando para me tornar uma desenvolvedora Front-end.
 - Amo aprender coisas novas.
-- Estou curtindo muito aprender Js :)
+
 
 ### Tecnologias
 
